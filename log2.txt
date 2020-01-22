@@ -1,5 +1,0 @@
-Tools to use git in GUI -> Github, Smartgit, Gitcola, SourceTree, Giggle
-
-Origin -> It refers to the source repository from where it was cloned.
-Master -> It is a default local branch in git.
-Remote -> A remote in Git is a common repository that all team members use to exchange their changes.
