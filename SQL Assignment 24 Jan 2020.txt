@@ -1,0 +1,28 @@
+CREATE PROCEDURE calculator @num1 float, @num2 float, @operator varchar(1)
+AS
+  if(@operator='+')
+    Begin
+      select cast(@num1+@num2 as int)
+    End
+  else if(@operator='-')
+    Begin
+      select cast(@num1-@num2 as int)
+    End
+  else if(@operator='*')
+    Begin
+      select cast(@num1*@num2 as int)
+    End
+  else if(@operator='/')
+    Begin
+      select @num1/@num2
+    End
+  else
+    Begin
+      select 'Invalid Operator'
+    End
+	
+
+exec calculator @num1=2, @num2=3, @operator='+'
+exec calculator @num1=2, @num2=3, @operator='-'
+exec calculator @num1=2, @num2=3, @operator='*'
+exec calculator @num1=2, @num2=3, @operator='/'
