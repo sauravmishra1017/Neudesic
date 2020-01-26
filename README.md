@@ -1,3 +1,5 @@
+TODAY's NOTES
+
 11:00am - Web Development
 
 - Assignment
