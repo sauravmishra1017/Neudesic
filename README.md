@@ -1,3 +1,5 @@
+TODAY's NOTES
+
 11:30am - C#
 
 - Assignments
