@@ -3,14 +3,14 @@ TODAY's NOTES
 11:00am - Web Development
 
 - Assignment
-Yesterday's Assignment
-Given task on the board (UI and Pdf Reader)
+1. Yesterday's Assignment
+2. Given task on the board (UI and Pdf Reader)
 
 2:45pm - JavaScript
 
 - Covered
-Casing - Camel, Pascal, Snake
+1. Casing - Camel, Pascal, Snake
 
 - Assignment
-Calculator - Arithmetic operations
-TypeScript Class to Javascript
+1. Calculator - Arithmetic operations
+2. TypeScript Class to Javascript
