@@ -13,18 +13,18 @@ TODAY's NOTES
 2:30pm - Git
 
 - Covered
-git init
-git status
-git add file_name //for particular file
-git commmit -m "Your message here"
-git add . //for all files
-git branch branch_name
-git checkout branch_name
-git merge branch_name/origin
-git remote add origin https://github.com/sauravmishra1017/neudesic_test.git
-git push -u origin master
-git remote
-git fetch -all
+1. git init
+2. git status
+3. git add file_name //for particular file
+4. git commmit -m "Your message here"
+5. git add . //for all files
+6. git branch branch_name
+7. git checkout branch_name
+8. git merge branch_name/origin
+9. git remote add origin https://github.com/sauravmishra1017/neudesic_test.git
+10. git push -u origin master
+11. git remote
+12. git fetch -all
 
 - Assignments (commit the answers on repositories)
 1. Tools to use git in GUI
