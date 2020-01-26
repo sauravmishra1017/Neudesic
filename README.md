@@ -9,11 +9,11 @@ TODAY's NOTES
 12:00pm - HTTP & Designing
 
 - Covered
-3 way handshaking - Transmission Control Protocol (TCP)
-Request - Request type, headers, body, destination
-Wireframe (Low fidelity - Probably) -> High fidelity
+1. 3 way handshaking - Transmission Control Protocol (TCP)
+2. Request - Request type, headers, body, destination
+3. Wireframe (Low fidelity - Probably) -> High fidelity
 
 3:00pm - GitHub
 
--Covered
-Merge conflicts
+- Covered
+1. Merge conflicts
