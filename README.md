@@ -1,3 +1,5 @@
+TODAY's NOTES
+
 10:30am - Web Development
 
 - Assignments (Upload to GitHub)
