@@ -3,13 +3,13 @@ TODAY's NOTES
 11:00am - Sevaiah
 
 - Covered
-Product manager > Scrum Master > Scrum Team (Less than 7)
+1. Product manager > Scrum Master > Scrum Team (Less than 7)
 
 15:00 - Microsoft SQL Server Management Studio
 
 - Covered
-DDL - CADT (Create, Alter, Drop, Truncate)
-DML - SIUD (Select, Insert, Update, Delete)
+1. DDL - CADT (Create, Alter, Drop, Truncate)
+2. DML - SIUD (Select, Insert, Update, Delete)
 
 - Assignment
-Stored Procedure - Calculator Procedure
+1. Stored Procedure - Calculator Procedure
