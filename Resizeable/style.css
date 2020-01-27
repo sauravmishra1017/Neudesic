@@ -1,0 +1,61 @@
+body
+{
+	background-color: white;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #222222;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: blue;
+}
+
+p,h3
+{
+	padding-right:60%;
+	padding-left:10%;
+	
+}
+
+.active {
+  background-color: blue;
+}
+
+.zoom
+{
+	  box-shadow: 2px 2px 20px 10px grey;
+}
+
+.zoom:hover {
+  transform: scale(1.5);
+}
+
+.footer {
+	background-color: blue;
+	display:block;
+	text-align:center;
+	padding:2%;
+	vertical-align: center;
+}
+
+.autosize
+{
+	padding-left: 05%;
+	width:100%;
